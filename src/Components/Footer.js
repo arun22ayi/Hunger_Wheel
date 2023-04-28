@@ -4,7 +4,7 @@ const Footer = () => {
       This site is developed by{" "}
       <a
         className="text-orange-400"
-        href="https://www.linkedin.com/in/aryan-chaudhary-133855230/"
+        href="https://github.com/arun22ayi/Hunger_Wheel"
         target="_blank"
       >
         Arun Ireshanavar
